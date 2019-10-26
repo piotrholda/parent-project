@@ -1,0 +1,3 @@
+# Project exclude paths
+/application/target/
+/child-project2/target/
